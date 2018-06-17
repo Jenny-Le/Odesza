@@ -5,8 +5,6 @@ const HomePage = () => {
           <div className="container-fluid">
           <h1>Odesza</h1>
           
-          
-          
           </div>
     )
       }
